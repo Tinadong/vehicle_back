@@ -18,7 +18,7 @@
                <li><router-link to='/eight'>深圳市辰尔技术有限公司<span>78</span></router-link><span class="glyphicon glyphicon-option-vertical"></span></li>
                 <li><router-link to='/nine'>深圳市辰尔技术有限公司<span>78</span></router-link><span class="glyphicon glyphicon-option-vertical"></span></li>
                 <li><router-link to='/ten'>深圳市辰尔技术有限公司<span>78</span></router-link><span class="glyphicon glyphicon-option-vertical"></span></li>
-                <li></li>
+                <li><router-link to='/ten'>深圳市辰尔技术有限公司<span>78</span></router-link><span class="glyphicon glyphicon-option-vertical"></span></li>
                 <li></li>
                 <li></li>
                 <li></li>
